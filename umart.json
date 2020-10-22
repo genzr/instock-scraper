@@ -1,0 +1,21 @@
+{
+    "urls": [
+        "https://www.umart.com.au/Inno3D-GeForce-RTX-3080-iCHILL-X4-10G-Graphics-Card_56962G.html",
+        "https://www.umart.com.au/Gigabyte-GeForce-RTX-3080-Gaming-OC-10G-Graphics-Card_56790G.html",
+        "https://www.umart.com.au/Gigabyte-Aorus-GeForce-RTX-3080-Master-10G-Graphics-Card_56885G.html",
+        "https://www.umart.com.au/Gigabyte-AORUS-GeForce-RTX-3080-Xtreme-10G-Graphics-Card_56969G.html",
+        "https://www.umart.com.au/Gigabyte-GeForce-RTX-3080-Vision-10G-OC-Graphics-Card_56886G.html",
+        "https://www.umart.com.au/Asus-ROG-Strix-GeForce-RTX-3080-OC-10G-Graphics-Card_56893G.html",
+        "https://www.umart.com.au/Asus-GeForce-RTX-3080-TUF-Gaming-OC-10G-Graphics-Card_56895G.html",
+        "https://www.umart.com.au/Galax-GeForce-RTX-3080-SG--1-Click-OC--10G-Graphics-Card_56817G.html",
+        "https://www.umart.com.au/Asus-ROG-Strix-GeForce-RTX-3080-10G-Graphics-Card_56894G.html",
+        "https://www.umart.com.au/EVGA-GeForce-RTX-3080-FTW3-Ultra-Gaming-10G-Graphics-Card_57050G.html",
+        "https://www.umart.com.au/EVGA-GeForce-RTX-3080-XC3-Ultra-Gaming-10G-Graphics-Card_57049G.html",
+        "https://www.umart.com.au/MSI-GeForce-RTX-3080-Gaming-X-Trio-10G-Graphics-Card_56788G.html",
+        "https://www.umart.com.au/MSI-GeForce-RTX-3080-Ventus-3X-10G-Graphics-Card_56789G.html",
+        "https://www.umart.com.au/Gigabyte-GeForce-RTX-3080-Eagle-OC-10G-Graphics-Card_56791G.html",
+        "https://www.umart.com.au/Asus-GeForce-RTX-3080-TUF-Gaming-10G-Graphics-Card_56792G.html"
+    ],
+    "xpath": "//*[@id='youhuo']/b/font",
+    "supplier": "umart"
+}
